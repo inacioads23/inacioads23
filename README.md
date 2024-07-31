@@ -1,4 +1,4 @@
-- 👋 Olá, Sou @inacioads23
+- 👋 Olá, Sou Inácio
 - 👀 Tenho interese em Backend, java
 - 🌱 Estou cursando ADS
 - 💞️ Procuro colaborar naquilo que for possível
