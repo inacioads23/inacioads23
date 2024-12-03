@@ -1,7 +1,6 @@
 - 👋 Olá, Sou Inácio
-- 👀 Tenho interese em Backend, java
+- 👀 Tenho interese em Backend
 - 🌱 Estou cursando ADS
-- 💞️ Procuro colaborar naquilo que for possível
 - 📫 Como chegar até mim ...
 
 <!---
