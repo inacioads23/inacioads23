@@ -23,3 +23,7 @@ Olá! Sou o Inácio. No momento cursando Análise e Desenvolvimento de Sistemas.
 ## Projetos
 [![GitHub](https://img.shields.io/badge/Estrutura.de.dados-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inacioads23/estrutura-de-dados)
 [![GitHub](https://img.shields.io/badge/PI.3-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inacioads23/dleiStore)
+
+---
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=inacioads23&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
