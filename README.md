@@ -1,9 +1,13 @@
-- 👋 Olá, Sou Inácio
-- 👀 Tenho interese em Backend
-- 🌱 Estou cursando ADS
-- 📫 Como chegar até mim ...
+# Inácio
 
-<!---
-inacioads23/inacioads23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Sou o Inácio,
+No momento estou cursando Análise e Desenvolvimento de Sistemas.
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/jose-inacio-m)
+
+## Habilidades
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
