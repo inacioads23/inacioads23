@@ -1,6 +1,6 @@
 # Inácio
 
-Olá! Sou o Inácio,
+Olá! Sou o Inácio.
 No momento estou cursando Análise e Desenvolvimento de Sistemas.
 
 ## Conecte-se comigo
