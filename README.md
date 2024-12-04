@@ -1,6 +1,7 @@
 # Inácio
 
-Olá! Sou o Inácio e no momento estudante de Análise e Desenvolvimento de Sistemas.
+Olá! Sou o Inácio.
+No momento estudante de Análise e Desenvolvimento de Sistemas.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/jose-inacio-m)
