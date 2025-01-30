@@ -1,7 +1,9 @@
 # Inácio
 
 Olá! Sou o Inácio. No momento cursando Análise e Desenvolvimento de Sistemas.<br/>
-E sou apaixonado por códigos!!!
+E sou apaixonado por códigos!!!<br/><br/>
+
+Embora esteja na faixa etária dos 50+ tenho planos de participar do mercado de tecnologia! Estou aguardando apenas uma oportunidade, é claro!!
 
 ---
 
