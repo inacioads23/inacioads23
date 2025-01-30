@@ -1,6 +1,7 @@
 # Inácio
 
 Olá! Sou o Inácio. No momento cursando Análise e Desenvolvimento de Sistemas.
+E sou apaixonado por códigos!!!
 
 ---
 
