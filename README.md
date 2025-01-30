@@ -20,12 +20,14 @@ Embora esteja na faixa etária dos 50+ tenho planos de participar do mercado de 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 
 ---
 
 ## Projetos
 [![GitHub](https://img.shields.io/badge/Estrutura.de.dados-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inacioads23/estrutura-de-dados)
 [![GitHub](https://img.shields.io/badge/PI.3-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inacioads23/dleiStore)
+[![GitHub](https://img.shields.io/badge/Spring.Modulo1.Projeto-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inacioads23/spring-aula1-desafio)
 
 ---
 
